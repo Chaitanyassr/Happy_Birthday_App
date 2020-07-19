@@ -16,11 +16,8 @@ _global_script_class_icons={
 [application]
 
 config/name="Happybirthday"
+run/main_scene="res://Slide1.tscn"
 config/icon="res://icon.png"
-
-[display]
-
-window/stretch/mode="viewport"
 
 [rendering]
 
