@@ -4,6 +4,7 @@
 [ext_resource path="res://icons/flatDark23.png" type="Texture" id=2]
 
 [node name="TouchPad" type="Node2D"]
+z_index = 2
 
 [node name="ui_right" type="TouchScreenButton" parent="."]
 position = Vector2( 93.633, 509.317 )
