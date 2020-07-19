@@ -14,10 +14,10 @@ func _ready():
 
 
 func _on_ui_right_pressed():
-	get_tree().change_scene("main9.tscn")
+	get_tree().change_scene("main15.tscn")
 	pass # Replace with function body.
 
 
 func _on_ui_left_pressed():
-	get_tree().change_scene("main7.tscn")
+	get_tree().change_scene("main13.tscn")
 	pass # Replace with function body.
