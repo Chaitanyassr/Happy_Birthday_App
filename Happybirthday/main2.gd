@@ -13,5 +13,11 @@ func _ready():
 #	pass
 
 
+func _on_ui_left_pressed():
+	get_tree().change_scene("main.tscn")
+	
+
+
 func _on_ui_right_pressed():
-	get_tree().change_scene("main2.tscn")
+	get_tree().change_scene("main3.tscn")
+	pass # Replace with function body.
