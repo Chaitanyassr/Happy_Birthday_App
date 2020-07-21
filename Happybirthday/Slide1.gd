@@ -14,5 +14,5 @@ func _ready():
 
 
 func _on_VideoPlayer_finished():
-	get_tree().change_scene("main.tscn")
+	get_tree().change_scene("videofile.tscn")
 	pass # Replace with function body.

@@ -21,6 +21,7 @@ config/icon="res://Images/start.png"
 
 [display]
 
+window/handheld/orientation="sensor"
 window/stretch/mode="viewport"
 window/stretch/aspect="expand"
 
