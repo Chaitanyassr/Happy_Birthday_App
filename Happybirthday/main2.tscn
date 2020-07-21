@@ -10,5 +10,6 @@ script = ExtResource( 1 )
 margin_right = 1119.0
 margin_bottom = 605.0
 stream = ExtResource( 2 )
+volume_db = 3.0
 autoplay = true
 [connection signal="finished" from="VideoPlayer" to="." method="_on_VideoPlayer_finished"]

@@ -17,7 +17,7 @@ _global_script_class_icons={
 
 config/name="Happybirthday"
 run/main_scene="res://Slide1.tscn"
-config/icon="res://icon.png"
+config/icon="res://Images/start.png"
 
 [display]
 

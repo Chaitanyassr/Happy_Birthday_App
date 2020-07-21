@@ -15,3 +15,8 @@ func _ready():
 
 func _on_ui_right_pressed():
 	get_tree().change_scene("main2.tscn")
+
+
+func _on_Button_pressed():
+	get_tree().change_scene("main2.tscn")
+	pass # Replace with function body.
