@@ -13,5 +13,6 @@ func _ready():
 #	pass
 
 
-func _on_Timer_timeout():
+func _on_VideoPlayer_finished():
 	get_tree().change_scene("main.tscn")
+	pass # Replace with function body.
